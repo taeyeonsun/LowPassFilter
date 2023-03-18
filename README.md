@@ -4,4 +4,4 @@
 
 ### 결과 
 
-<img src = "./image/lowpassfilter_2.jpg" width="50%" height="50%">
+<img src = "./image/lowpassfilter_2.jpg" width="70%" height="70%">
