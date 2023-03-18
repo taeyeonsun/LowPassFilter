@@ -2,7 +2,7 @@
 
 ![lowpassfilter_1](./image/lowpassfilter_1.jpg)
 
-<img src = "./image/lowpasfilter_1.jpg" width="50%" height="50%">
+<img src = "./image/lowpassfilter_1.jpg" width="50%" height="50%">
 
 ### 결과 
 
