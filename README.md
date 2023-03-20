@@ -19,4 +19,4 @@
 <img src = "./image/lowpassfilter_2.jpg" width="70%" height="70%">
 
 ### 주석
-low frequency에서는 capacitor가 open circuit으로 작동하고 high frequency 에서는 capacitor가 short circuit으로 작동하는 것을 알 수 있음.
+주파수를 바꾸어가면서 시험해보면 low frequency에서는 capacitor가 open circuit으로 작동하고 high frequency 에서는 capacitor가 short circuit으로 작동하는 것을 알 수 있음.
